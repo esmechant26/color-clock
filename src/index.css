@@ -1,0 +1,13 @@
+:root {
+  width: 1126px;
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 10px;
+  color: #6279eb;
+  background-color: blanchedalmond;
+}
